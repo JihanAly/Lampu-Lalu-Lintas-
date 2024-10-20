@@ -5,8 +5,7 @@ Nim: 2409116082
 ![1](https://github.com/user-attachments/assets/5885784e-aecc-4599-9c6e-154eb888bf1b)
 
 
-Fungsi time.sleep() akan digunakan untuk membuat program berhenti sementara, sehingga bisa mensimulasikan durasi lampu lalu lintas.
-
+import time adalah perintah di Python untuk mengimpor modul bernama time. Modul time ini menyediakan berbagai fungsi yang berkaitan dengan pengelolaan waktu
 
 ![dua](https://github.com/user-attachments/assets/08020d68-e113-410c-a63c-b0f3cc33ca34)
 
