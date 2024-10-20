@@ -1,8 +1,8 @@
 # Lampu-Lalu-Lintas-
 Nama: Jihan Alya Naflah  
 Nim: 2409116082
-
 Kelas: C
+
 
 
 
@@ -39,8 +39,11 @@ Ketika countdown mencapai 0, baris baru dicetak untuk memastikan tidak ada konfl
 traffic_light_simulation() ini akan menjalankan simulasi lampu lalu lintas. Fungsi ini menggunakan perulangan while True untuk memastikan program berjalan secara terus-menerus tanpa berhenti.
 
 Lampu Merah: Menjalankan status_lampu(5, "Lampu Merah"), di mana Lampu Merah akan aktif selama 5 detik.
+
 Lampu Kuning: Menjalankan status_lampu(2, "Lampu Kuning"), di mana Lampu Kuning akan aktif selama 2 detik.
+
 Lampu Hijau: Menjalankan status_lampu(7, "Lampu Hijau"), di mana Lampu Hijau akan aktif selama 7 detik.
+
 Simulasi akan terus mengulang siklus Lampu Merah, Lampu Kuning, dan Lampu Hijau.
 
 
